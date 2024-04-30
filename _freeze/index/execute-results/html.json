@@ -1,0 +1,15 @@
+{
+  "hash": "eb135c92388e6485a14184bc916c9242",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Uitbreiding visiegebied Duivenbos\"\nsubtitle : \"Vragen van buurtbewoners\"\ndate: today\nauthors:\n  - Bernadette Michiels\n  - Karel De Tremerie\nAbstract: \"Deze website wil een antwoord geven op de vragen van buurtbewoners met betrekking tot het visiegebied Duivenbos.\"\n  \ntheme: \"cosmo\"\nformat:\n    html:\n      toc-title: Inhoudstafel\n      toc: true\n      toc_float: true\n      toc-depth: 5\n      number-sections: false\n      #toc-location: body\n      #cap-location: top\n      page-layout: full\n      embed-resources: true\n      self-contained-math: true\n      toc-expand: true\n      code-fold: true\n      code-link: true\n      #fig-width: 6\n      #fig-height: 5\ngrid:\n  body-width: 1000px\n  margin-width: 300px\n  sidebar-width: 100px\n  gutter-width: 4em\nreference-location: margin\ncitation-location: margin\nexecute:\n   echo:  false\n   warning:  false\n   message: false\n   freeze: true\neditor: visual\neditor_options:\n  chunk_output_type: console\n\n\n---\n\n\nIn het voorjaar van 2024 werd door Natuurpunt een document ingediend bij de overheid met betrekking tot de uitbreidingsplannen voor het Duivenbos. \n\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,11 +1,148 @@
 ---
-title: "03__Project-BM"
+title: "Uitbreiding visiegebied Duivenbos  \nGevolgen voor buurtbewoners"
+date: today
+authors: "Bernadette Michiels  \nKarel De Tremerie"
+# description: "In 2023 werd door Natuurpunt Herzele-Ninove een document ingediend bij de overheid met betrekking tot de uitbreidingsplannen."
+title-block-banner: true
 ---
 
-Dit is een website die antwoord wil geven op de vragen van buurtbewoners met betrekking tot het visiegebied Duivenbos.
+------------------------------------------------------------------------
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Waarom deze bijdrage? {.unnumbered}
 
-```{r}
-1 + 1
-```
+In 2023 werd door Natuurpunt Herzele-Ninove een document ingediend bij de overheid met betrekking tot de uitbreidingsplannen voor het Duivenbos, de Beverbeek en de Kabbeek.
+
+-   De betrokken partijen: wie is wie?
+-   Waarom deze plannen?
+-   Wat houden deze plannen in?
+-   Wat zijn de gevolgen voor de buurtbewoners indien deze plannen worden goedgekeurd?
+-   Concrete vragen van buurtbewoners\
+
+------------------------------------------------------------------------
+
+# De betrokken partijen: wie is wie?
+
+## De Overheid
+
+### Migratie van beslissingsmacht
+
+In principe worden politieke beslissingen genomen door regering en parlement. Sinds enkele decennia zien we dat de Brusselse wetstraat niet langer de plaats is waar beslissingen genomen worden. De politieke beslissingsmacht migreert. [@Huyse2014, pp. 18-20]
+
+De **horizontale migratie** begon kort na de Tweede Wereldoorlog. Grote stukken sociaal en economisch beleid werden in onderaanneming gegeven van de sociale partners, vakbonden en patronaat. Onderwijs, cultuur, ziekenzorg en maatschappelijk werk, werden toevertrouwd aan christelijke, socialistische en liberale organisaties (verzuiling).
+
+In beide gevallen gaan regering en parlement slechts als contractanten om met die andere producenten van politieke beslissingen. Zij onderhandelen met hen en laten hen, binnen een door de overheid afgebakende gedoogzone, een koers uitstippelen.
+
+Ook op bestuurlijk vlak heeft zich een gelijkaardige wijziging voorgedaan. Men spreekt over '*horizontaal bestuur*'. Daarbij ontstaat een formeel partnerschap tussen regering en parlement enerzijds en de particuliere sector anderzijds. In Vlaanderen kennen we dergelijke vormen van gemengde bestuur via **agentschappen** als IVA's[^1] en EVA's.[^2]
+
+[^1]: IVA: Intern verzelfstandigde agentschappen
+
+[^2]: EVA: Extern publiekrechtelijke of privaatrechtelijk vormgegeven agentschappen
+
+Met **verticale migratie** bedoelen we het verschuiven van bevoegdheden naar boven (Europa Instellingen, IMF, Internationaal Strafhof, ...) en naar beneden (regio's, provincies, steden en gemeenten).
+
+Door de staatshervormingen werden verschillende bevoegdheden overgeheveld van de unitaire staat naar de **gewesten**. De gewesten werden bevoegd voor tal van materies die de burger rechtstreeks raken zoals
+
+-   ruimtelijke ordening (ruimtelijke plannen, bouwvergunningen, ... )
+-   leefmilieu (o.a. bescherming van het leefmilieu)
+-   landinrichting en natuurbehoud
+
+### Beleidsdomeinen van de Vlaamse overheid
+
+Deze bevoegdheden van de Vlaamse overheid worden gerealiseerd door verschillende overheidsdiensten, die gegroepeerd worden in 10 **beleidsdomeinen**.
+
+Een beleidsdomein bestaat uit een **departement** en een of meer **agentschappen** (horizontaal bestuur).
+
+-   Het *departement* zorgt voor de beleids*voorbereiding* en de beleidsondersteuning. Het werkt onder het directe gezag en onder de verantwoordelijkheid van de minister.
+
+-   Een *agentschap* is voornamelijk verantwoordelijk voor beleids*uitvoerende* taken en heeft een grotere mate van autonomie. Daarom spreekt men ook over 'verzelfstandigde' agentschappen.
+
+Deze structuur werd in 2006 ingevoerd bij de grootschalige reorganisatie onder de noemer 'Beter Bestuurlijk Beleid' (BBB). In de praktijk werken departementen en agentschappen nauw samen bij zowel beleidsvoorbereiding als beleidsuitvoering.
+
+### Beleidsdomein Omgeving
+
+Het Vlaamse Gewest is bevoegd voor het omgevingsbeleid in Vlaanderen. Het is de Vlaamse Regering die de eindbeslissingen neemt, op initiatief van de Vlaamse minister voor Omgeving. Voor het beleidsvoorbereidend en beleidsuitvoerend werk kan de minister van Omgeving rekenen op een aantal organisaties:
+
+::: column-margin
+![Beleidsdomein Omgeving - organogram (click to enlarge)](docs/Organogram-Omgeving_fdj4rr.png){.lightbox}
+:::
+
+-   Departement Omgeving
+-   Een aantal Intern Verzelfstandigde Agentschappen zonder rechtspersoonlijkheid
+    -   Agentschap voor Natuur en Bos (ANB)
+    -   Instituut voor Natuur- en Bosonderzoek (INBO)
+    -   Vlaams Energieagentschap (VEA)
+-   Een aantal Intern Verzelfstandigde Agentschappen met rechtspersoonlijkheid
+    -   Openbare Vlaamse Afvalstoffenmaatschappij (OVAM)
+    -   Vlaamse Milieumaatschappij (VMM)
+-   Een aantal Extern Verzelfstandigde Agentschappen, publiekrechtelijk vormgegeven
+    -   Vlaamse Landmaatschappij (VLM)
+    -   Vlaamse reguleringsinstantie voor de Elektriciteits- en Gasmarkt (VREG)\
+        \
+
+#### Agentschap Natuur en Bos (ANB)
+
+Het Agentschap voor Natuur en Bos, beschermt en ontwikkelt ruim 90.000 hectare aan natuurgebieden, bossen en parken in Vlaanderen. Ze ondersteunen waardevolle natuurprojecten met financiële middelen én vakmanschap.
+
+ANB streeft naar:
+
+-   Instandhouding van de huidige aanwezige natuur in Vlaanderen en deze natuur verder ontwikkelen en beschermen
+-   Herstellen van natuur die in het verleden verloren is gegaan
+-   Ontwikkelen van nieuwe natuur en parkgebieden waarbij gestreefd wordt naar betere natuur door het beheren van de natuur op een duurzame wijze.
+
+Het verhogen van de biodiversiteit in Vlaanderen behoort tot de strategische doelstelling van ANB.
+
+#### MiNa-Raad (Milieu- en Natuurraad van Vlaanderen)
+
+::: column-margin
+![Samenstelling MiNa-raad (click to enlarge)](docs/Samenstelling_Minaraad2.png){.lightbox}
+:::
+
+De MiNa-raad is een adviesorgaan van de Vlaamse Regering met een algemene bevoegdheid inzake studie, aanbeveling en advies voor alles wat verband houdt met milieu en natuur.
+
+Zoals duidelijk bepaald in het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, hebben milieu en milieubeleid een ruime betekenis. Hierdoor houdt de Raad zich ook bezig met thema's als duurzame ontwikkeling, ruimtelijke ordening, energie, mobiliteit, landbouw en natuurlijke hulpbronnen.
+
+De adviezen die de Raad verstrekt zijn niet bindend. De besluitvormers zijn vrij om de aangereikte argumenten en opmerkingen al dan niet in hun beleid te integreren.
+
+
+
+
+
+## Natuurpunt
+
+Tekst in opbouw
+
+## Boerenbond
+
+Tekst in opbouw
+
+::: {.callout-note appearance="minimal"}
+
+## Pay Attention
+
+Using callouts is an effective way to highlight content that your reader give special consideration or attention.
+
+:::
+
+
+::: {.callout-note appearance="simple" collapse="true"}
+
+## Pay Attention
+
+Using callouts is an effective way to highlight content that your reader give special consideration or attention.
+Dits is nieuwe tekst
+
+Bla bla bla
+
+:::
+
+
+::: {.callout-note appearance="default" collapse="true" icon=false}
+
+## Gevolgen voor de buurtbewoners
+
+Using callouts is an effective way to highlight content that your reader give special consideration or attention.
+Dits is nieuwe tekst
+
+Bla bla bla
+
+:::

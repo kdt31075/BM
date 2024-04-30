@@ -1,20 +1,60 @@
 project:
   type: website
   output-dir: docs
+  title: "DUIVENBOS-BEVERBEEK"
+  preview:
+    port: 4200
 
 website:
-  title: "03__Project-BM"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
         text: Home
       - about.qmd
 
+lightbox: true
+
 format:
   html:
-    theme: cosmo
+    theme: flatly  
     css: styles.css
     toc: true
+    toc-title: Inhoudstafel
+    toc_float: true
+    toc-depth: 5
+    toc-location: left
+    toc-expand: true
+    number-sections: false
+    page-layout: full
+    embed-resources: true
+    smooth-scroll: true
+    code-fold: true
+    code-link: true
+    
 
-editor: visual
+bibliography: references.bib
+csl: apa-single-spaced.csl
+
+reference-location: margin
+citation-location: margin
+    
+
+editor: source
+
+sidebar:
+     style: "floating"
+     search: true
+     alignment: left
+     border: true
+
+notebook-links: true
+lang: nl
+
+grid:
+   margin-width: 350px
+   sidebar-width: 350px
+   gutter-width: 2.5em
+   body-width: 1000px
 
