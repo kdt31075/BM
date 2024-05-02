@@ -1,0 +1,53 @@
+---
+title: "Uitbreiding visiegebied Duivenbos  \nGevolgen voor buurtbewoners"
+date: today
+authors: "Bernadette Michiels  \nKarel De Tremerie"
+title-block-banner: true
+
+
+grid:
+  margin-width: 500px
+  sidebar-width: 0px # Set sidebar width to 0 to remove it
+  gutter-width: 2.5em
+  body-width: 500px
+
+# Override call-out width to match body width
+callouts:
+  width: 500px
+
+# Disable table of contents for this page
+toc: false
+---
+
+
+## Vragen van buurtbewoners - Under construction
+
+
+
+::: {.callout-note appearance="default" collapse="true" icon=false}
+
+## Heeft Natuurpunt voorkooprecht?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Placerat vestibulum lectus mauris ultrices eros in cursus turpis. Mauris commodo quis imperdiet massa tincidunt nunc. Sed risus pretium quam vulputate dignissim. Porttitor massa id neque aliquam vestibulum morbi blandit cursus risus. Massa sapien faucibus et molestie ac feugiat sed lectus vestibulum. Imperdiet nulla malesuada pellentesque elit eget gravida. Vel turpis nunc eget lorem dolor sed. Quis risus sed vulputate odio ut. Turpis massa sed elementum tempus egestas. Cursus sit amet dictum sit. Varius vel pharetra vel turpis nunc eget. Imperdiet dui accumsan sit amet nulla facilisi. Arcu bibendum at varius vel. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Mauris cursus mattis molestie a iaculis at erat pellentesque adipiscing. Integer malesuada nunc vel risus commodo viverra maecenas accumsan lacus.
+
+Senectus et netus et malesuada fames ac. Sit amet risus nullam eget felis eget nunc lobortis. Habitant morbi tristique senectus et netus. Vulputate eu scelerisque felis imperdiet proin fermentum. Lorem donec massa sapien faucibus et molestie ac. Nibh tortor id aliquet lectus proin. At consectetur lorem donec massa sapien faucibus et molestie. Non nisi est sit amet facilisis magna etiam tempor. Massa eget egestas purus viverra accumsan in nisl. Leo vel fringilla est ullamcorper. Eu augue ut lectus arcu bibendum at varius vel. Amet porttitor eget dolor morbi. Amet tellus cras adipiscing enim eu turpis egestas pretium. Urna neque viverra justo nec ultrices dui. Tortor dignissim convallis aenean et. Enim diam vulputate ut pharetra. Tincidunt id aliquet risus feugiat in ante metus dictum at. Purus semper eget duis at tellus at urna condimentum.
+
+Et ligula ullamcorper malesuada proin libero nunc consequat. Donec et odio pellentesque diam volutpat commodo sed. Diam quam nulla porttitor massa id neque aliquam vestibulum. Vel pretium lectus quam id leo. Est pellentesque elit ullamcorper dignissim cras. Donec pretium vulputate sapien nec. Condimentum vitae sapien pellentesque habitant. Suspendisse in est ante in nibh mauris cursus mattis molestie. Vitae sapien pellentesque habitant morbi tristique senectus et netus. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Ultrices neque ornare aenean euismod elementum nisi quis eleifend. Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Risus quis varius quam quisque id diam.
+
+Molestie at elementum eu facilisis sed odio morbi. Congue nisi vitae suscipit tellus. Sit amet luctus venenatis lectus magna fringilla urna. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin. Et netus et malesuada fames ac turpis egestas. Metus dictum at tempor commodo ullamcorper. Faucibus a pellentesque sit amet porttitor eget dolor morbi. Massa id neque aliquam vestibulum. Suspendisse faucibus interdum posuere lorem ipsum. Viverra aliquet eget sit amet tellus cras adipiscing enim eu. Ut eu sem integer vitae justo. Tellus elementum sagittis vitae et leo duis. Tempor id eu nisl nunc mi ipsum faucibus. Diam in arcu cursus euismod quis. Tempor orci dapibus ultrices in.
+
+Accumsan lacus vel facilisis volutpat est velit egestas. Neque gravida in fermentum et. Nulla at volutpat diam ut venenatis tellus in metus. Velit laoreet id donec ultrices tincidunt arcu non. Eu non diam phasellus vestibulum lorem sed risus ultricies tristique. Integer feugiat scelerisque varius morbi enim. Montes nascetur ridiculus mus mauris vitae ultricies leo integer. Egestas integer eget aliquet nibh praesent. Sed elementum tempus egestas sed sed risus pretium. Consequat semper viverra nam libero justo laoreet. Enim sit amet venenatis urna cursus eget nunc scelerisque. Libero justo laoreet sit amet cursus sit. Purus sit amet volutpat consequat mauris nunc congue.
+
+Potenti nullam ac tortor vitae purus faucibus. Sagittis orci a scelerisque purus semper eget duis. Vel risus commodo viverra maecenas accumsan lacus vel facilisis volutpat. Ac auctor augue mauris augue. Scelerisque fermentum dui faucibus in ornare quam. Ultricies mi quis hendrerit dolor magna eget est. Nunc mi ipsum faucibus vitae. Vel eros donec ac odio tempor orci dapibus ultrices in. Non sodales neque sodales ut. Fermentum odio eu feugiat pretium nibh ipsum. Non curabitur gravida arcu ac tortor dignissim convallis aenean et. Imperdiet massa tincidunt nunc pulvinar sapien et ligula. Quis vel eros donec ac odio. Lacus vel facilisis volutpat est velit egestas dui id.
+
+Magna sit amet purus gravida quis blandit turpis cursus in. Convallis convallis tellus id interdum velit laoreet id donec ultrices. Consequat mauris nunc congue nisi vitae suscipit. Tincidunt tortor aliquam nulla facilisi cras. Nunc sed blandit libero volutpat sed cras ornare arcu dui. Libero nunc consequat interdum varius sit amet. Pharetra diam sit amet nisl suscipit adipiscing. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Sed arcu non odio euismod lacinia at quis risus sed. Integer quis auctor elit sed vulputate mi sit. Quis blandit turpis cursus in. At quis risus sed vulputate. Mi sit amet mauris commodo quis imperdiet massa. Mauris rhoncus aenean vel elit scelerisque. Amet dictum sit amet justo. Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Sagittis nisl rhoncus mattis rhoncus urna neque viverra justo nec. Urna duis convallis convallis tellus id interdum velit laoreet id. Pellentesque diam volutpat commodo sed egestas egestas fringilla. Faucibus vitae aliquet nec ullamcorper sit.
+
+Volutpat maecenas volutpat blandit aliquam etiam erat. Dui id ornare arcu odio ut. Vitae congue mauris rhoncus aenean vel. Libero justo laoreet sit amet cursus sit. Ut sem viverra aliquet eget sit amet tellus cras. Sem fringilla ut morbi tincidunt. Aliquet nibh praesent tristique magna sit amet purus. Et odio pellentesque diam volutpat commodo sed. Nec sagittis aliquam malesuada bibendum arcu. Amet nisl suscipit adipiscing bibendum. Integer quis auctor elit sed vulputate mi sit. Maecenas sed enim ut sem viverra aliquet eget. Enim facilisis gravida neque convallis. Ultricies mi eget mauris pharetra et ultrices neque ornare aenean.
+:::
+
+::: {.callout-note appearance="default" collapse="true" icon=false}
+## Mag ik mijn grond/tuin nog bemesten met een natuurreservaat naast mij?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Placerat vestibulum lectus mauris ultrices eros in cursus turpis. Mauris commodo quis imperdiet massa tincidunt nunc. Sed risus pretium quam vulputate dignissim. Porttitor massa id neque aliquam vestibulum morbi blandit cursus risus. Massa sapien faucibus et molestie ac feugiat sed lectus vestibulum. Imperdiet nulla malesuada pellentesque elit eget gravida. Vel turpis nunc eget lorem dolor sed. Quis risus sed vulputate odio ut. Turpis massa sed elementum tempus egestas. Cursus sit amet dictum sit. Varius vel pharetra vel turpis nunc eget. Imperdiet dui accumsan sit amet nulla facilisi. Arcu bibendum at varius vel. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Mauris cursus mattis molestie a iaculis at erat pellentesque adipiscing. Integer malesuada nunc vel risus commodo viverra maecenas accumsan lacus.
+:::
+

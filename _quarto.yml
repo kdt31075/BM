@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-  title: "DUIVENBOS-BEVERBEEK"
+  title: "DUIVENBOS (HERZELE)"
   preview:
     port: 4200
 
@@ -10,9 +10,16 @@ website:
     background: primary
     search: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        file: index.qmd
+      - text: "Betrokken partijen" 
+        file: 1_betrokken_partijen.qmd
+      - text: "Waarom deze plannen?"
+        file: 2_plannen.qmd
+      - text: "Gevolgen van de plannen" 
+        file: 3_gevolgen.qmd 
+      - text: "Vragen van buurtbewoners" 
+        file: 4_vragen.qmd 
 
 lightbox: true
 
